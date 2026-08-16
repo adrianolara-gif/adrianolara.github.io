@@ -13,7 +13,7 @@ Implementei um Excel com linguagem VBA para uma Panificadora que precisava de um
 - Excel Avançado
   - Formulas e VBA
 - Linguagem em programação
-  - Pyton
+  - Python
   - HTML
   - CSS
   - C++ e C#
