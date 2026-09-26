@@ -17,12 +17,12 @@ Implementei um Excel com linguagem VBA para uma Panificadora que precisava de um
   - HTML
   - CSS
   - C++ e C#
+  - Java
   - JavaScript
 - Banco de Dados
-  - Postgresqp
-  - Mysql
-  - Pgadmin
-  - Xampp
+  - PostgreSQL
+  - SQL Serve
+  - DB2
 
 ## Contato
 - al.adriano.lara@gmail.com
